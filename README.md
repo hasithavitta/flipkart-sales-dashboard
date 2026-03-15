@@ -26,7 +26,7 @@ Python (pandas) → Google Cloud Storage → BigQuery → Looker Studio
 ## Tech Stack
 - Python (pandas, numpy) for data cleaning
 - Google Cloud Storage for raw data staging
-- BigQuery for 5 SQL views for KPI computation
+- BigQuery - 5 SQL views for KPI computation
 - Looker Studio for interactive dashboard
 - Google Colab for development environment
 
